@@ -1,0 +1,1 @@
+export const LOCAL_STORE_KEY = "saasoft-test-task";
